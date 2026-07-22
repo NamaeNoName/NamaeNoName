@@ -47,6 +47,4 @@ Major: **Software Engineering**
 
 ---
 
-## Connect with Me
-- **Email:** samat.dzholoev@outlook.com
-- **GitHub:** [NamaeNoName](https://github.com/NamaeNoName)
+
